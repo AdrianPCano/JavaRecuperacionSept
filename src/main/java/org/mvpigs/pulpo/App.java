@@ -6,8 +6,9 @@ package org.mvpigs.pulpo;
  */
 public class App 
 {
-    public static void main( String[] args )
+
+    public static void main(String[] args )
     {
-        System.out.println( "Hello World!" );
+        Registro registro1=  new Registro;
     }
 }
